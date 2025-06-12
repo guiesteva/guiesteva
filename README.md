@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/guiesteva/guiesteva/output/snake.svg" alt="Snake animation" />
+
+###
 # 👩🏻‍💻 Guilherme Estevam
 
 **`QA Engineer `**
