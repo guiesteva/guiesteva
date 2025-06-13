@@ -1,4 +1,5 @@
-
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
 # 👩🏻‍💻 Guilherme Estevam
 
@@ -7,6 +8,9 @@
 Sou um profissional entusiasta da área de QA (Quality Assurance), com formação em Ciências da Computação e sólidos conhecimentos em Cypress, Postman, APIs, Software Testing e metodologias ágeis como Scrum. Tenho como objetivo garantir a qualidade de produtos e serviços, contribuindo diretamente para o sucesso dos projetos e a satisfação dos clientes.
 
 Estou comprometido com o aprimoramento contínuo das minhas habilidades técnicas e de comunicação, sempre em busca de oferecer resultados de excelência. Gosto de enfrentar desafios, colaborar com equipes multidisciplinares e contribuir para o crescimento da empresa e da indústria de tecnologia.
+
+## 🌎 Encontre-me na web
+- 💼 [LinkedIn](https://www.linkedin.com/in/guiesteva/)
 
 ## 🔥 Skills
 <div style="flex-basis: 48%;">
